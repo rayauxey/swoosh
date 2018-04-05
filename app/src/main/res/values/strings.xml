@@ -4,5 +4,12 @@
     <string name="on_going_all_out">ON GOING ALL OUT</string>
     <string name="get_started">GET STARTED</string>
     <string name="background_image">background image</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="mens">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="co_ed">Co-Ed</string>
+    <string name="next">Next</string>
+    <string name="app_background">app background</string>
     <string name="swoosh_logo">swoosh logo</string>
+    <string name="find_team_in_your_a_city_and_dominate_the_league">Find team in your a city, and dominate the league</string>
 </resources>
