@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LeagueActivity"></activity>
+        <activity android:name=".LeagueActivity" />
+        <activity android:name=".BasicActivity" />
+        <activity android:name=".SkillActivity"></activity>
     </application>
 
 </manifest>
