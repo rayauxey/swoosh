@@ -1,9 +1,9 @@
-package com.raymediax.swoosh
+package com.raymediax.swoosh.Controller
 
-import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
+import com.raymediax.swoosh.EXTRA_LEAGUE
+import com.raymediax.swoosh.R
 
 class SkillActivity : AppCompatActivity() {
     var league = ""
